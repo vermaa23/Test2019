@@ -20,10 +20,10 @@
         <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
-        <types>
+    <types>
         <members>*</members>
         <name>BusinessProcess</name>
-</types>
+    </types>
     <types>
         <members>*</members>
         <name>CustomApplication</name>
@@ -32,12 +32,11 @@
         <members>*</members>
         <name>CustomObject</name>
     </types>
-		<types>
+    <types>
         <members>*</members>
         <name>CustomTab</name>
     </types>
-
-	<types>
+    <types>
         <members>*</members>
         <name>CompactLayout</name>
     </types>
@@ -45,7 +44,7 @@
         <members>*</members>
         <name>CustomApplication</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>CustomLabel</name>
     </types>
@@ -57,23 +56,23 @@
         <members>*</members>
         <name>Flow</name>
     </types>
-	    <types>
+    <types>
         <members>*</members>
         <name>ListView</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>QuickAction</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>Report</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>ReportType</name>
     </types>
-		<types>
+    <types>
         <members>*</members>
         <name>RecordType</name>
     </types>
@@ -81,11 +80,11 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>ValidationRule</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>WorkflowRule</name>
     </types>	
